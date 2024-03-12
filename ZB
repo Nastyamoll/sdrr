@@ -1,0 +1,29 @@
+<html>
+   <head>
+      <title>Твой подарок</title>
+   </head>
+
+   <body text="white" bgcolor="#fcca51">
+      <align=left>
+         <img src="Images\IBIW9498.jpg" alt
+         "Image" height="200" width="150"
+      </align=left>
+      <align=right>
+         <img src="Images\IMG_2899.png" alt
+         "Image" height="200" width="150"
+      </align=right>
+
+      <center>
+         <img src="Images\бб.png" alt 
+         "Image" height="100" width="300"
+      </center>
+      <center>
+         <video controls src="Images\qwe.mp4" alt
+         "Image" height="400" width= "600"
+      </center>
+      <align=left>
+          <img src="Images\IMG_3027.png" alt
+          "Image" height="200" width="150"
+      </align=left>
+   </body>
+</html>
